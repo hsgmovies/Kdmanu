@@ -334,7 +334,7 @@ else:
 
     ON_HEROKU = False
 
-URL = environ.get("URL", "https://testofvjfilter-1fa60b1b8498.herokuapp.com/")
+URL = environ.get("URL", "https://special-shayna-royalmanu-08f26408.koyeb.app/")
 
 
 
