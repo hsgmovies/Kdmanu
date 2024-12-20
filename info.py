@@ -36,7 +36,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 # This Pictures Is For Start Message Picture, You Can Add Multiple By Giving One Space Between Each.
 
-PICS = (environ.get('PICS', 'https://graph.org/file/ce1723991756e48c35aa1.jpg')).split()
+PICS = (environ.get('PICS', 'https://i.ibb.co/Qpnsft4/IMG-20241210-172926.jpg')).split()
 
 
 
@@ -184,7 +184,7 @@ CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+V07pDEWmEf4yNWI1')
 
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '+eJXl_msonAY2YTJl') # Support Chat Link Without https:// or @
 
-OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/Mr_manu_kumar')
+OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/MovieKingHubSupportbot')
 
 
 
