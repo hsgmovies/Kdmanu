@@ -54,7 +54,7 @@ AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 
 # This Channel Is For When User Start Your Bot Then Bot Send That User Name And Id In This Log Channel, Same For Group Also.
 
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002457272452')
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002457272452'))
 
 
 
