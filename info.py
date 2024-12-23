@@ -36,7 +36,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "7872923344:AAH-7UTUacOKLZR2ANtKbzHz5UMOuPr
 
 # This Pictures Is For Start Message Picture, You Can Add Multiple By Giving One Space Between Each.
 
-PICS = (environ.get('PICS', 'https://i.ibb.co/Qpnsft4/IMG-20246.jpg')).split()
+PICS = (environ.get('PICS', 'https://i.ibb.co/BjZXScQ/IMG-20241223-173155-589.jpg')).split()
 
 
 
@@ -178,13 +178,13 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Us
 
 # Links
 
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+eJXl_msonAY2YTJl')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+Q9jU0yXlBY83YzY1')
 
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+V07pDEWmEf4yNWI1')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/hsgmoves')
 
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '+eJXl_msonAY2YTJl') # Support Chat Link Without https:// or @
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/') # Support Chat Link Without https:// or @
 
-OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/MovieKingHubSupportbot')
+OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/movieghs')
 
 
 
