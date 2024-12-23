@@ -182,7 +182,7 @@ GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+Q9jU0yXlBY83YzY1')
 
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/hsgmoves')
 
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/') # Support Chat Link Without https:// or @
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '+eJXl_msonAY2YTJl'') # Support Chat Link Without https:// or @
 
 OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/movieghs')
 
