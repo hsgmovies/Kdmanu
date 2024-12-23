@@ -1,8 +1,8 @@
-# Don't Remove Credit @VJ_Botz
+# Don't Remove Credit @mr_manu_kumar
 
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot @mr23bto
 
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @mr_manu_kumar
 
 
 
@@ -22,13 +22,13 @@ id_pattern = re.compile(r'^.\d+$')
 
 # Bot information
 
-SESSION = environ.get('SESSION', 'TechVJBot')
+SESSION = environ.get('SESSION', 'mr23bro')
 
-API_ID = int(environ.get('API_ID', '25929889'))
+API_ID = int(environ.get('API_ID', '26070023'))
 
-API_HASH = environ.get('API_HASH', 'fd980dbd069e0b45d0dec91f7e616bad')
+API_HASH = environ.get('API_HASH', 'a17c751b33949983c954c8185c33ba99')
 
-BOT_TOKEN = environ.get('BOT_TOKEN', "")
+BOT_TOKEN = environ.get('BOT_TOKEN', "7882082949:AAE2mBJeXROAPzopKs2OkQ3-SX5R7-FTzuQ")
 
 
 
@@ -36,7 +36,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 # This Pictures Is For Start Message Picture, You Can Add Multiple By Giving One Space Between Each.
 
-PICS = (environ.get('PICS', 'https://i.ibb.co/Qpnsft4/IMG-20241210-172926.jpg')).split()
+PICS = (environ.get('PICS', 'https://i.ibb.co/Qpnsft4/IMG-20246.jpg')).split()
 
 
 
@@ -44,7 +44,7 @@ PICS = (environ.get('PICS', 'https://i.ibb.co/Qpnsft4/IMG-20241210-172926.jpg'))
 
 # Admins & Users
 
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6290531180').split()] # For Multiple Id Use One Space Between Each.
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6330785444').split()] # For Multiple Id Use One Space Between Each.
 
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]  # For Multiple Id Use One Space Between Each.
 
@@ -54,13 +54,13 @@ AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 
 # This Channel Is For When User Start Your Bot Then Bot Send That User Name And Id In This Log Channel, Same For Group Also.
 
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002361565292'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002457272452')
 
 
 
 # This Is File Channel Where You Upload Your File Then Bot Automatically Save It In Database 
 
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002258194106').split()]  # For Multiple Id Use One Space Between Each.
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001944150412').split()]  # For Multiple Id Use One Space Between Each.
 
 
 
@@ -120,9 +120,9 @@ DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in enviro
 
 # MongoDB information
 
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://manugowda2306:manugowda2306@cluster0.ix1rv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")   # IF Multiple Database Is False Then Fill Only This Database Url.
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://hasmithhsg:<8688062006>@hsgmovies.m03vi.mongodb.net/?retryWrites=true&w=majority&appName=hsgmovies")   # IF Multiple Database Is False Then Fill Only This Database Url.
 
-DATABASE_NAME = environ.get('DATABASE_NAME', "afdatabase")
+DATABASE_NAME = environ.get('DATABASE_NAME', "hsgmovies")
 
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'af_mhakal')
 
@@ -302,11 +302,7 @@ YEARS = ["1900", "1991", "1992", "1993", "1994", "1995", "1996", "1997", "1998",
 
 
 
-                           # Don't Remove Credit @VJ_Botz
-
-                           # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-
-                           # Ask Doubt on telegram @KingVJ01
+                           
 
 
 
@@ -388,8 +384,8 @@ else:
 
 
 
-# Don't Remove Credit @VJ_Botz
+# Don't Remove Credit @mr_manu_kumar
 
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot @mr23bro
 
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @mr_manu_kumar
