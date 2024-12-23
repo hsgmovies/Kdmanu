@@ -254,11 +254,11 @@ VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', '')
 
 SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', True)) # Set True Or False
 
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'omegalinks.in')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'gplinks.com')
 
-SHORTLINK_API = environ.get('SHORTLINK_API', '877f10a400c5fb4c7c5062e00db772cdc7cb6429')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'cc70f90c7591eb09dfd9404df7b2544aa9787eed')
 
-TUTORIAL = environ.get('TUTORIAL', '') # How Open Shortner Link Video Link , Channel Link Where You Upload Your Video.
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/+xJdB-olVoAUyMjdl') # How Open Shortner Link Video Link , Channel Link Where You Upload Your Video.
 
 
 
