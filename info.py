@@ -228,9 +228,9 @@ USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 VERIFY = bool(environ.get('VERIFY', False))
 
-VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', 'omegalinks.in')
+VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', 'gplinks.com')
 
-VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', 'e44f59840c24311ea995ee4e1a1969246e403af9')
+VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', 'cc70f90c7591eb09dfd9404df7b2544aa9787eed')
 
 VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/howto_open_short_link/13')
 
