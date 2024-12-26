@@ -330,7 +330,7 @@ else:
 
     ON_HEROKU = False
 
-URL = environ.get("URL", "https://special-shayna-royalmanu-08f26408.koyeb.app/")
+URL = environ.get("URL", "https://fiscal-cori-hsgmovies-de4333c8.koyeb.app/")
 
 
 
