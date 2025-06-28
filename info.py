@@ -28,7 +28,7 @@ API_ID = int(environ.get('API_ID', '26070023'))
 
 API_HASH = environ.get('API_HASH', 'a17c751b33949983c954c8185c33ba99')
 
-BOT_TOKEN = environ.get('BOT_TOKEN', "7872923344:AAH-7UTUacOKLZR2ANtKbzHz5UMOuPrpovI")
+BOT_TOKEN = environ.get('BOT_TOKEN', "7872923344:AAGDuBiQ5n23RYLz-3oS7HIHeEHcuOZOCsg")
 
 
 
